@@ -1,0 +1,24 @@
+/my-next-app
+├── /public                # Fichiers statiques (images, logos...)
+├── /pages                 # Pages accessibles via l'URL
+│   ├── /index.js          # Page d'accueil ou redirection
+│   ├── /page1.js          # Première page
+│   └── /page2.js          # Deuxième page
+├── /components            # Composants réutilisables
+│   ├── /containers        # Composants conteneurs (ex: formulaires complexes)
+│   │   ├── Form.js        # Formulaire avec plusieurs inputs et boutons
+│   │   └── Modal.js       # Modal contenant des éléments interactifs
+│   ├── /layout            # Mise en page globale (layout et navigation)
+│   │   ├── Layout.js      # Layout global incluant le menu
+│   │   └── Menu.js        # Menu principal de navigation
+│   ├── /sections          # Sections utilisées dans les pages (gauche/droite)
+│   │   ├── LeftSection.js # Partie gauche de la page
+│   │   └── RightSection.js # Contenu principal ou partie droite
+│   └── /elements          # Composants élémentaires (sans enfants)
+│       ├── Button.js      # Exemple de bouton simple
+│       ├── InputField.js  # Champ de saisie basique
+│       └── Tag.js         # Affichage d'une étiquette
+├── /styles                # Fichiers CSS globaux ou modules CSS
+│   └── globals.css        # Styles globaux
+├── /tailwind.config.js    # Configuration de Tailwind CSS
+└── package.json           # Dépendances du projet

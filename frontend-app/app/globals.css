@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.profil-side
+{
+  background-color: #ffffff;
+  width: 35% !important;
+  min-height: 100vh !important;
+}
+
+.recommandations-side
+{
+  background-color: #ededed;
+  width: 65% !important;
+  /* height: max-content !important; */
+  min-height:max-content;
+}
+
+.blink {
+  animation: blink-animation 1s steps(2, start) infinite;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+
+.spinner {
+  width: 25px;
+  height: 25px;
+  border: 3px solid #b8c8f0; /* Couleur de l’arrière-plan */
+  border-top: 3px solid #0A2870; /* Couleur de l'anneau animé */
+  border-radius: 50%; /* Cercle parfait */
+  animation: spin 1s linear infinite; /* Animation infinie */
+}
+
+/* Définition de l'animation */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Centrage du loader sur la page */
+.spinner-container {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}

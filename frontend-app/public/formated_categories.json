@@ -1,0 +1,610 @@
+[
+ {
+  "name": "anglais",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "lecture en anglais",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies en anglais",
+    "isChecked": true
+   },
+   {
+    "name": "communication orale",
+    "isChecked": true
+   },
+   {
+    "name": "écriture en anglais",
+    "isChecked": true
+   },
+   {
+    "name": "vocabulaire",
+    "isChecked": true
+   },
+   {
+    "name": "autorégulation en anglais",
+    "isChecked": true
+   },
+   {
+    "name": "compréhension",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "autonomie fonctionnelle",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "social",
+    "isChecked": true
+   },
+   {
+    "name": "littératie",
+    "isChecked": true
+   },
+   {
+    "name": "hygiène du milieu",
+    "isChecked": true
+   },
+   {
+    "name": "mesure",
+    "isChecked": true
+   },
+   {
+    "name": "motricité globale",
+    "isChecked": true
+   },
+   {
+    "name": "utilisation & gestion des tic",
+    "isChecked": true
+   },
+   {
+    "name": "santé",
+    "isChecked": true
+   },
+   {
+    "name": "communauté",
+    "isChecked": true
+   },
+   {
+    "name": "sécurité",
+    "isChecked": true
+   },
+   {
+    "name": "langage écrit",
+    "isChecked": true
+   },
+   {
+    "name": "techniques culinaires",
+    "isChecked": true
+   },
+   {
+    "name": "numératie",
+    "isChecked": true
+   },
+   {
+    "name": "géométrie",
+    "isChecked": true
+   },
+   {
+    "name": "langage oral",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies cognitives",
+    "isChecked": true
+   },
+   {
+    "name": "hygiène vestimentaire",
+    "isChecked": true
+   },
+   {
+    "name": "activités physiques",
+    "isChecked": true
+   },
+   {
+    "name": "déplacements & orientation",
+    "isChecked": true
+   },
+   {
+    "name": "gestion du temps",
+    "isChecked": true
+   },
+   {
+    "name": "emploi",
+    "isChecked": true
+   },
+   {
+    "name": "finance",
+    "isChecked": true
+   },
+   {
+    "name": "habitation",
+    "isChecked": true
+   },
+   {
+    "name": "hygiène corporelle",
+    "isChecked": true
+   },
+   {
+    "name": "hygiène alimentaire",
+    "isChecked": true
+   },
+   {
+    "name": "affectif",
+    "isChecked": true
+   },
+   {
+    "name": "consommation",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "communication orale",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "expression orale",
+    "isChecked": true
+   },
+   {
+    "name": "vocabulaire",
+    "isChecked": true
+   },
+   {
+    "name": "autorégulation en communication orale",
+    "isChecked": true
+   },
+   {
+    "name": "compréhension orale",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies en communication",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "formation emploi",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "social",
+    "isChecked": true
+   },
+   {
+    "name": "géographie & histoire",
+    "isChecked": true
+   },
+   {
+    "name": "formation pratique",
+    "isChecked": true
+   },
+   {
+    "name": "lecture",
+    "isChecked": true
+   },
+   {
+    "name": "mathématique : fms",
+    "isChecked": true
+   },
+   {
+    "name": "formation professionnelle",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies cognitives & métacognitives",
+    "isChecked": true
+   },
+   {
+    "name": "communication orale",
+    "isChecked": true
+   },
+   {
+    "name": "écriture",
+    "isChecked": true
+   },
+   {
+    "name": "autonomie & participation sociale",
+    "isChecked": true
+   },
+   {
+    "name": "éducation physique & santé",
+    "isChecked": true
+   },
+   {
+    "name": "expérimentations",
+    "isChecked": true
+   },
+   {
+    "name": "affectif",
+    "isChecked": true
+   },
+   {
+    "name": "mathématique : fpt",
+    "isChecked": true
+   },
+   {
+    "name": "méthodologie & organisation",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "méthodologie & organisation",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "méthodologie",
+    "isChecked": true
+   },
+   {
+    "name": "organisation",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "science & technologie",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "science & technologie",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "stratégies cognitives & métacognitives",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "stratégies métacognitives",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies cognitives",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "transition",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "social",
+    "isChecked": true
+   },
+   {
+    "name": "emploi",
+    "isChecked": true
+   },
+   {
+    "name": "organisation",
+    "isChecked": true
+   },
+   {
+    "name": "disciplinaire",
+    "isChecked": true
+   },
+   {
+    "name": "méthodologie",
+    "isChecked": true
+   },
+   {
+    "name": "développement",
+    "isChecked": true
+   },
+   {
+    "name": "environnement",
+    "isChecked": true
+   },
+   {
+    "name": "habitudes de vie",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "univers social",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "histoire",
+    "isChecked": true
+   },
+   {
+    "name": "géographie",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "utilisation & gestion des tic",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "organisateurs & outils",
+    "isChecked": true
+   },
+   {
+    "name": "technologie",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "éducation physique",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "éducation physique",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "éthique & culture religieuse",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "éthique & culture religieuse",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "affectivité",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "connaissance & image de soi",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "arts",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "arts dramatique",
+    "isChecked": true
+   },
+   {
+    "name": "danse",
+    "isChecked": true
+   },
+   {
+    "name": "arts plastiques",
+    "isChecked": true
+   },
+   {
+    "name": "musique",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "comportement",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "gestion du temps",
+    "isChecked": true
+   },
+   {
+    "name": "autorégulation",
+    "isChecked": true
+   },
+   {
+    "name": "consignes & règles",
+    "isChecked": true
+   },
+   {
+    "name": "gestion des émotions",
+    "isChecked": true
+   },
+   {
+    "name": "motivation",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "lecture",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "reconnaissance logographique",
+    "isChecked": true
+   },
+   {
+    "name": "conscience phonologique",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies en lecture",
+    "isChecked": true
+   },
+   {
+    "name": "fluidité",
+    "isChecked": true
+   },
+   {
+    "name": "autorégulation en lecture",
+    "isChecked": true
+   },
+   {
+    "name": "reconnaissance graphophonétique",
+    "isChecked": true
+   },
+   {
+    "name": "compréhension de lecture",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "mathématique",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "valeurs & positions",
+    "isChecked": true
+   },
+   {
+    "name": "mode de présentation",
+    "isChecked": true
+   },
+   {
+    "name": "statistiques",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies en mathématiques",
+    "isChecked": true
+   },
+   {
+    "name": "opérations",
+    "isChecked": true
+   },
+   {
+    "name": "mesure",
+    "isChecked": true
+   },
+   {
+    "name": "probabilités",
+    "isChecked": true
+   },
+   {
+    "name": "algèbre",
+    "isChecked": true
+   },
+   {
+    "name": "fractions",
+    "isChecked": true
+   },
+   {
+    "name": "résolution de problèmes",
+    "isChecked": true
+   },
+   {
+    "name": "géométrie",
+    "isChecked": true
+   },
+   {
+    "name": "langage mathématique",
+    "isChecked": true
+   },
+   {
+    "name": "finances",
+    "isChecked": true
+   },
+   {
+    "name": "nombres décimaux",
+    "isChecked": true
+   },
+   {
+    "name": "numération",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "préscolaire",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "social",
+    "isChecked": true
+   },
+   {
+    "name": "intellectuel",
+    "isChecked": true
+   },
+   {
+    "name": "littératie",
+    "isChecked": true
+   },
+   {
+    "name": "sensoriel & motricité",
+    "isChecked": true
+   },
+   {
+    "name": "numératie",
+    "isChecked": true
+   },
+   {
+    "name": "affectif",
+    "isChecked": true
+   },
+   {
+    "name": "communication",
+    "isChecked": true
+   },
+   {
+    "name": "comportement",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "social",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "habiletés sociales",
+    "isChecked": true
+   },
+   {
+    "name": "participation",
+    "isChecked": true
+   }
+  ]
+ },
+ {
+  "name": "écriture",
+  "isChecked": true,
+  "children": [
+   {
+    "name": "convention linguistique",
+    "isChecked": true
+   },
+   {
+    "name": " autorégulation en écriture",
+    "isChecked": true
+   },
+   {
+    "name": "autorégulation en écriture",
+    "isChecked": true
+   },
+   {
+    "name": "orthographe",
+    "isChecked": true
+   },
+   {
+    "name": "syntaxe",
+    "isChecked": true
+   },
+   {
+    "name": "contenu & organisation",
+    "isChecked": true
+   },
+   {
+    "name": "stratégies en écriture",
+    "isChecked": true
+   },
+   {
+    "name": "graphomotricité",
+    "isChecked": true
+   }
+  ]
+ }
+]

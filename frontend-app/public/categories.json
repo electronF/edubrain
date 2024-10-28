@@ -1,0 +1,404 @@
+[
+  {
+    "category": "anglais",
+    "sub_category": [
+      "lecture en anglais",
+      "stratégies en anglais",
+      "communication orale",
+      "écriture en anglais",
+      "vocabulaire",
+      "autorégulation en anglais",
+      "compréhension"
+    ],
+    "sub_sub_category": [
+      "réinvestir sa compréhension de textes lus et entendus",
+      "interagir oralement en anglais",
+      "écrire et produire des textes",
+      "écrire des textes",
+      "réinvestir sa compréhension de textes"
+    ]
+  },
+  {
+    "category": "autonomie fonctionnelle",
+    "sub_category": [
+      "social",
+      "littératie",
+      "hygiène du milieu",
+      "mesure",
+      "motricité globale",
+      "utilisation & gestion des tic",
+      "santé",
+      "communauté",
+      "sécurité",
+      "langage écrit",
+      "techniques culinaires",
+      "numératie",
+      "géométrie",
+      "langage oral",
+      "stratégies cognitives",
+      "hygiène vestimentaire",
+      "activités physiques",
+      "déplacements & orientation",
+      "gestion du temps",
+      "emploi",
+      "finance",
+      "habitation",
+      "hygiène corporelle",
+      "hygiène alimentaire",
+      "affectif",
+      "consommation"
+    ],
+    "sub_sub_category": [
+      "interagir avec son milieu",
+      "nan",
+      "communiquer",
+      "agir avec méthode",
+      "exploiter l'information disponible dans son environnement",
+      "agir de façon sécuritaire"
+    ]
+  },
+  {
+    "category": "communication orale",
+    "sub_category": [
+      "expression orale",
+      "vocabulaire",
+      "autorégulation en communication orale",
+      "compréhension orale",
+      "stratégies en communication"
+    ],
+    "sub_sub_category": [
+      "communiquer oralement",
+      "communiquer oralement selon des modalités variées",
+      "acutaliser son potentiel",
+      "coopérer",
+      "communiquer de façon appropriée",
+      "structurer son identité"
+    ]
+  },
+  {
+    "category": "formation emploi",
+    "sub_category": [
+      "social",
+      "géographie & histoire",
+      "formation pratique",
+      "lecture",
+      "mathématique : fms",
+      "formation professionnelle",
+      "stratégies cognitives & métacognitives",
+      "communication orale",
+      "écriture",
+      "autonomie & participation sociale",
+      "éducation physique & santé",
+      "expérimentations",
+      "affectif",
+      "mathématique : fpt",
+      "méthodologie & organisation"
+    ],
+    "sub_sub_category": [
+      "adopter une position réfléchie sur des enjeux tirés de la vie courante",
+      "chercher des réponses ou des solutions à des problèmes d'ordre scientifique ou technologique",
+      "faire une expérience de participation sociale dans son milieu",
+      "communiquer oralement selon des modalités variées",
+      "adopter les attitudes et les comportements appropriés à différentes situations de travail",
+      "réaliser une démarche d'insertion professionnelle",
+      "mettre à profit un raisonnement mathématique",
+      "écrire des textes variés",
+      "adopter les attitudes et les comportements requis en milieu de travail",
+      "s'approprier certaines compétences spécifiques d'un ou de plusieurs métiers semi-spécialisés",
+      "déployer un raisonnement mathématique",
+      "construire son appartenance au territoire",
+      "accomplir les tâches inhérentes à différentes situations de travail",
+      "agir dans divers contextes de pratique d'activités physiques",
+      "s'approprier certaines compétences spécifiques d'un ou de plusieurs métiers semi-spécialisés.",
+      "manifester son autonomie dans des situations de la vie courante",
+      "cerner son profil personnel et professionnel",
+      "construire son appartenance à la société québécoise",
+      "mettre à profit ses connaissances scientifiques ou technologiques",
+      "résoudre une situation problème",
+      "se donner une représentation du monde du travail",
+      "communiquer à l'aide des langages utilisés en science et en technologie",
+      "se représenter les exigences propres à différentes situations de travail",
+      "communiquer à l'aide du langage mathématique",
+      "interagir dans divers contextes de pratiques d'activités physiques",
+      "lire et apprécier des textes variés",
+      "adopter un mode de vie sain et actif"
+    ]
+  },
+  {
+    "category": "méthodologie & organisation",
+    "sub_category": [
+      "méthodologie",
+      "organisation"
+    ],
+    "sub_sub_category": [
+      "se donner des méthodes de travail efficaces",
+      "exploiter l'information",
+      "résoudre des problèmes",
+      "exploiter les technologies de l'information et de la communication"
+    ]
+  },
+  {
+    "category": "science & technologie",
+    "sub_category": [
+      "science & technologie"
+    ],
+    "sub_sub_category": [
+      "proposer des explications ou des solutions à des problèmes d'ordre scientifique ou technologique",
+      "mettre à profit les outils, objets et procédés de la science et de la technologie",
+      "communiquer à l'aide des langages utilisés en science et en technologie",
+      "explorer le monde de la science et de la technologie"
+    ]
+  },
+  {
+    "category": "stratégies cognitives & métacognitives",
+    "sub_category": [
+      "stratégies métacognitives",
+      "stratégies cognitives"
+    ],
+    "sub_sub_category": [
+      "se donner des méthodes de travail efficaces",
+      "exploiter l'information",
+      "mettre en œuvre sa pensée créatrice",
+      "résoudre des problèmes",
+      "exercer son jugement critique"
+    ]
+  },
+  {
+    "category": "transition",
+    "sub_category": [
+      "social",
+      "emploi",
+      "organisation",
+      "disciplinaire",
+      "méthodologie",
+      "développement",
+      "environnement",
+      "habitudes de vie"
+    ],
+    "sub_sub_category": [
+      "se préparer à la vie active et à la participation sociale",
+      "explorer des choix de carrières",
+      "communiquer des informations sur ses difficultés",
+      "résoudre des problèmes",
+      "se déplacer, s'orienter",
+      "tenir compte des changements physique et psychologique",
+      "faciliter l'intégration et la participation sociale",
+      "organise son profil",
+      "écrire des textes variés",
+      "anticiper ses objectifs",
+      "lire des textes variés",
+      "s'approprier des stratégies d'apprentissage",
+      "s'informer sur la réglementation",
+      "se préparer à s'adapter aux règles, aux pratiques ou aux stratégies",
+      "s'informer sur le milieu",
+      "collaborer",
+      "se préparer à la recherche d'emploi",
+      "prendre connaissance de la structure et l'organisation du milieu",
+      "faciliter les déplacements et l'orientation",
+      "communiquer",
+      "prendre connaissance de la législation et de la réglementation",
+      "prendre connaissance de la structure et de l'organisation du milieu",
+      "se préparer à la recherche d'information sur les études post secondaire",
+      "prendre connaissance des outils méthodologiques",
+      "s'approprier des méthodes de travail",
+      "prendre connaissance de différents types d'accommodations",
+      "se préparer à la vie sociale",
+      "prendre connaissance des aides financières",
+      "tenir compte des changements physiques et psychologiques",
+      "s'approprier une tic"
+    ]
+  },
+  {
+    "category": "univers social",
+    "sub_category": [
+      "histoire",
+      "géographie"
+    ],
+    "sub_sub_category": [
+      "interpréter les réalités sociales à l'aide de la méthode historique",
+      "interpréter un enjeu territorial",
+      "intégrer les réalités sociales dans une perspective historique",
+      "construire sa conscience citoyenne à l'échelle planétaire",
+      "construire sa conscience citoyenne à l'aide de l'histoire",
+      "lire l'organisation d'un territoire"
+    ]
+  },
+  {
+    "category": "utilisation & gestion des tic",
+    "sub_category": [
+      "organisateurs & outils",
+      "technologie"
+    ],
+    "sub_sub_category": [
+      "se donner des méthodes de travail efficaces",
+      "exploiter les technologies de l'information et de la communication"
+    ]
+  },
+  {
+    "category": "éducation physique",
+    "sub_category": [
+      "éducation physique"
+    ],
+    "sub_sub_category": [
+      "interagir dans divers contextes de pratique d'activités physiques",
+      "adopter un mode de vie sain et actif",
+      "agir dans divers contextes de pratique d'activités physiques"
+    ]
+  },
+  {
+    "category": "éthique & culture religieuse",
+    "sub_category": [
+      "éthique & culture religieuse"
+    ],
+    "sub_sub_category": [
+      "manifester une compréhension du phénomène religieux",
+      "réfléchir sur des questions éthiques",
+      "pratiquer le dialogue"
+    ]
+  },
+  {
+    "category": "affectivité",
+    "sub_category": [
+      "connaissance & image de soi"
+    ],
+    "sub_sub_category": [
+      "structurer son identité",
+      "coopérer",
+      "acutaliser son potentiel"
+    ]
+  },
+  {
+    "category": "arts",
+    "sub_category": [
+      "arts dramatique",
+      "danse",
+      "arts plastiques",
+      "musique"
+    ],
+    "sub_sub_category": [
+      "réaliser des créations plastiques médiatiques",
+      "interpréter des danses",
+      "inventer des pièces vocales ou instrumentales",
+      "inventer des danses",
+      "inventer des séquences dramatiques",
+      "apprécier des oeuvres chorégraphiques, ses réalisations et celles de ses camarades",
+      "apprécier des oeuvres musicales, ses réalisations et celles de ses camarades",
+      "apprécier des oeuvres d'art, des objets culturels du patrimoine artistique, des images médiatiques, ses réalisations et celles de ses camarades",
+      "apprécier des oeuvres théâtrales, ses réalisations et celles de ses camarades",
+      "interpréter des pièces musicales",
+      "réaliser des créations plastiques personnelles",
+      "interpréter des séquences dramatiques"
+    ]
+  },
+  {
+    "category": "comportement",
+    "sub_category": [
+      "gestion du temps",
+      "autorégulation",
+      "consignes & règles",
+      "gestion des émotions",
+      "motivation"
+    ],
+    "sub_sub_category": [
+      "structurer son identité",
+      "coopérer",
+      "exercer son jugement critique",
+      "acutaliser son potentiel"
+    ]
+  },
+  {
+    "category": "lecture",
+    "sub_category": [
+      "reconnaissance logographique",
+      "conscience phonologique",
+      "stratégies en lecture",
+      "fluidité",
+      "autorégulation en lecture",
+      "reconnaissance graphophonétique",
+      "compréhension de lecture"
+    ],
+    "sub_sub_category": [
+      "lire et apprécier des textes variés",
+      "compréhension de lecture",
+      "apprécier des œuvres littéraires",
+      "lire des textes variés"
+    ]
+  },
+  {
+    "category": "mathématique",
+    "sub_category": [
+      "valeurs & positions",
+      "mode de présentation",
+      "statistiques",
+      "stratégies en mathématiques",
+      "opérations",
+      "mesure",
+      "probabilités",
+      "algèbre",
+      "fractions",
+      "résolution de problèmes",
+      "géométrie",
+      "langage mathématique",
+      "finances",
+      "nombres décimaux",
+      "numération"
+    ],
+    "sub_sub_category": [
+      "résoudre une situation problème mathématique",
+      "communiquer à l'aide du langage mathématique",
+      "déployer un raisonnement mathématique",
+      "raisonner à l'aide de concepts et de processus mathématiques",
+      "résoudre une situation problème"
+    ]
+  },
+  {
+    "category": "préscolaire",
+    "sub_category": [
+      "social",
+      "intellectuel",
+      "littératie",
+      "sensoriel & motricité",
+      "numératie",
+      "affectif",
+      "communication",
+      "comportement"
+    ],
+    "sub_sub_category": [
+      "nan",
+      "interagir de façon harmonieuse avec les autres",
+      "affirmer sa personnalité",
+      "agir avec efficacité dans différents contextes sur le plan sensoriel et moteur",
+      "communiquer en utilisant les ressources de la langue",
+      "mener à terme une activité ou un projet",
+      "construire sa compréhension du monde"
+    ]
+  },
+  {
+    "category": "social",
+    "sub_category": [
+      "habiletés sociales",
+      "participation"
+    ],
+    "sub_sub_category": [
+      "structurer son identité",
+      "coopérer",
+      "acutaliser son potentiel"
+    ]
+  },
+  {
+    "category": "écriture",
+    "sub_category": [
+      "convention linguistique",
+      " autorégulation en écriture",
+      "autorégulation en écriture",
+      "orthographe",
+      "syntaxe",
+      "contenu & organisation",
+      "stratégies en écriture",
+      "graphomotricité"
+    ],
+    "sub_sub_category": [
+      "écrire des textes variés"
+    ]
+  }
+]
